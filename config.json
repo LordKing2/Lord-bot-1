@@ -27,8 +27,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐎𝐓",
-  "ownerlink": "https://www.facebook.com/profile.php?id=100074772216830",
+  "nickNameBot": "𝙝𝙪̛̃𝙪 𝙩𝙝𝙖̆́𝙣𝙜",
+  "ownerlink": "https://www.facebook.com/profile.php?id=100074293234284",
   "prefix": "-",
   "database": {
     "type": "sqlite",
